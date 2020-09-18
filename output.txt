@@ -1,0 +1,386 @@
+--> 0 NOTE Constance Xu
+<-- 0|NOTE|Y|Constance Xu 
+--> 0 HEAD
+<-- 0|HEAD|Y|
+--> 1 SOUR Family Echo
+<-- 1|SOUR|N|Family Echo 
+--> 2 WWW http://www.familyecho.com/
+<-- 2|WWW|N|http://www.familyecho.com/ 
+--> 1 FILE My Family
+<-- 1|FILE|N|My Family 
+--> 1 DATE 4 SEP 2020
+<-- 1|DATE|Y|4 SEP 2020 
+--> 1 DEST ANSTFILE
+<-- 1|DEST|N|ANSTFILE 
+--> 1 GEDC
+<-- 1|GEDC|N|
+--> 2 VERS 5.5.1
+<-- 2|VERS|N|5.5.1 
+--> 2 FORM LINEAGE-LINKED
+<-- 2|FORM|N|LINEAGE-LINKED 
+--> 1 SUBM @I1@
+<-- 1|SUBM|N|@I1@ 
+--> 2 NAME Connie Xu
+<-- 2|NAME|Y|Connie Xu 
+--> 1 SUBN
+<-- 1|SUBN|N|
+--> 1 CHAR UTF-8
+<-- 1|CHAR|N|UTF-8 
+--> 0 @I1@ INDI
+<-- 0|@I1@|N|INDI 
+--> 1 NAME Connie /Xu/
+<-- 1|NAME|Y|Connie /Xu/ 
+--> 2 GIVN Connie
+<-- 2|GIVN|N|Connie 
+--> 2 SURN Xu
+<-- 2|SURN|N|Xu 
+--> 2 _MARNM Xu
+<-- 2|_MARNM|N|Xu 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 1 JAN 2000
+<-- 2|DATE|Y|1 JAN 2000 
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@ 
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@ 
+--> 1 FAMC @F3@
+<-- 1|FAMC|Y|@F3@ 
+--> 0 @I2@ INDI
+<-- 0|@I2@|N|INDI 
+--> 1 NAME Kenneth /Xu/
+<-- 1|NAME|Y|Kenneth /Xu/ 
+--> 2 GIVN Kenneth
+<-- 2|GIVN|N|Kenneth 
+--> 2 SURN Xu
+<-- 2|SURN|N|Xu 
+--> 2 _MARNM Xu
+<-- 2|_MARNM|N|Xu 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 7 AUG 1970
+<-- 2|DATE|Y|7 AUG 1970 
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@ 
+--> 0 @I3@ INDI
+<-- 0|@I3@|N|INDI 
+--> 1 NAME Grace /Zhang/
+<-- 1|NAME|Y|Grace /Zhang/ 
+--> 2 GIVN Grace
+<-- 2|GIVN|N|Grace 
+--> 2 SURN Zhang
+<-- 2|SURN|N|Zhang 
+--> 2 _MARNM Zhang
+<-- 2|_MARNM|N|Zhang 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 3 MAR 1970
+<-- 2|DATE|Y|3 MAR 1970 
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@ 
+--> 1 FAMC @F4@
+<-- 1|FAMC|Y|@F4@ 
+--> 0 @I4@ INDI
+<-- 0|@I4@|N|INDI 
+--> 1 NAME Kenny /Xu/
+<-- 1|NAME|Y|Kenny /Xu/ 
+--> 2 GIVN Kenny
+<-- 2|GIVN|N|Kenny 
+--> 2 SURN Xu
+<-- 2|SURN|N|Xu 
+--> 2 _MARNM Xu
+<-- 2|_MARNM|N|Xu 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 5 APR 1997
+<-- 2|DATE|Y|5 APR 1997 
+--> 1 FAMS @F5@
+<-- 1|FAMS|Y|@F5@ 
+--> 1 FAMC @F3@
+<-- 1|FAMC|Y|@F3@ 
+--> 0 @I5@ INDI
+<-- 0|@I5@|N|INDI 
+--> 1 NAME Jane /Smith/
+<-- 1|NAME|Y|Jane /Smith/ 
+--> 2 GIVN Jane
+<-- 2|GIVN|N|Jane 
+--> 2 SURN Smith
+<-- 2|SURN|N|Smith 
+--> 2 _MARNM Xu
+<-- 2|_MARNM|N|Xu 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 16 JUL 1997
+<-- 2|DATE|Y|16 JUL 1997 
+--> 1 FAMS @F5@
+<-- 1|FAMS|Y|@F5@ 
+--> 1 FAMS @F6@
+<-- 1|FAMS|Y|@F6@ 
+--> 0 @I6@ INDI
+<-- 0|@I6@|N|INDI 
+--> 1 NAME Tenzin /Doe/
+<-- 1|NAME|Y|Tenzin /Doe/ 
+--> 2 GIVN Tenzin
+<-- 2|GIVN|N|Tenzin 
+--> 2 SURN Doe
+<-- 2|SURN|N|Doe 
+--> 2 _MARNM Doe
+<-- 2|_MARNM|N|Doe 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 19 SEP 1997
+<-- 2|DATE|Y|19 SEP 1997 
+--> 1 FAMS @F6@
+<-- 1|FAMS|Y|@F6@ 
+--> 0 @I7@ INDI
+<-- 0|@I7@|N|INDI 
+--> 1 NAME Aang /Smith/
+<-- 1|NAME|Y|Aang /Smith/ 
+--> 2 GIVN Aang
+<-- 2|GIVN|N|Aang 
+--> 2 SURN Smith
+<-- 2|SURN|N|Smith 
+--> 2 _MARNM Xu
+<-- 2|_MARNM|N|Xu 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 16 JUN 2020
+<-- 2|DATE|Y|16 JUN 2020 
+--> 1 FAMC @F5@
+<-- 1|FAMC|Y|@F5@ 
+--> 0 @I8@ INDI
+<-- 0|@I8@|N|INDI 
+--> 1 NAME Jinora /Doe/
+<-- 1|NAME|Y|Jinora /Doe/ 
+--> 2 GIVN Jinora
+<-- 2|GIVN|N|Jinora 
+--> 2 SURN Doe
+<-- 2|SURN|N|Doe 
+--> 2 _MARNM Doe
+<-- 2|_MARNM|N|Doe 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 7 OCT 2020
+<-- 2|DATE|Y|7 OCT 2020 
+--> 1 FAMC @F6@
+<-- 1|FAMC|Y|@F6@ 
+--> 0 @I9@ INDI
+<-- 0|@I9@|N|INDI 
+--> 1 NAME Sokka /Li/
+<-- 1|NAME|Y|Sokka /Li/ 
+--> 2 GIVN Sokka
+<-- 2|GIVN|N|Sokka 
+--> 2 SURN Li
+<-- 2|SURN|N|Li 
+--> 2 _MARNM Li
+<-- 2|_MARNM|N|Li 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 3 JUL 2000
+<-- 2|DATE|Y|3 JUL 2000 
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y 
+--> 2 DATE 7 MAR 2018
+<-- 2|DATE|Y|7 MAR 2018 
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@ 
+--> 0 @I10@ INDI
+<-- 0|@I10@|N|INDI 
+--> 1 NAME Zuko /Liu/
+<-- 1|NAME|Y|Zuko /Liu/ 
+--> 2 GIVN Zuko
+<-- 2|GIVN|N|Zuko 
+--> 2 SURN Liu
+<-- 2|SURN|N|Liu 
+--> 2 _MARNM Liu
+<-- 2|_MARNM|N|Liu 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 3 JUL 1998
+<-- 2|DATE|Y|3 JUL 1998 
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@ 
+--> 0 @I11@ INDI
+<-- 0|@I11@|N|INDI 
+--> 1 NAME Lin /Li/
+<-- 1|NAME|Y|Lin /Li/ 
+--> 2 GIVN Lin
+<-- 2|GIVN|N|Lin 
+--> 2 SURN Li
+<-- 2|SURN|N|Li 
+--> 2 _MARNM Li
+<-- 2|_MARNM|N|Li 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 7 APR 2020
+<-- 2|DATE|Y|7 APR 2020 
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@ 
+--> 0 @I12@ INDI
+<-- 0|@I12@|N|INDI 
+--> 1 NAME Toph /Liu/
+<-- 1|NAME|Y|Toph /Liu/ 
+--> 2 GIVN Toph
+<-- 2|GIVN|N|Toph 
+--> 2 SURN Liu
+<-- 2|SURN|N|Liu 
+--> 2 _MARNM Liu
+<-- 2|_MARNM|N|Liu 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 9 DEC 2020
+<-- 2|DATE|Y|9 DEC 2020 
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@ 
+--> 0 @I13@ INDI
+<-- 0|@I13@|N|INDI 
+--> 1 NAME Bolin /Liu/
+<-- 1|NAME|Y|Bolin /Liu/ 
+--> 2 GIVN Bolin
+<-- 2|GIVN|N|Bolin 
+--> 2 SURN Liu
+<-- 2|SURN|N|Liu 
+--> 2 _MARNM Liu
+<-- 2|_MARNM|N|Liu 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 6 NOV 2021
+<-- 2|DATE|Y|6 NOV 2021 
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@ 
+--> 0 @I14@ INDI
+<-- 0|@I14@|N|INDI 
+--> 1 NAME Li /Zhang/
+<-- 1|NAME|Y|Li /Zhang/ 
+--> 2 GIVN Li
+<-- 2|GIVN|N|Li 
+--> 2 SURN Zhang
+<-- 2|SURN|N|Zhang 
+--> 2 _MARNM Zhang
+<-- 2|_MARNM|N|Zhang 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 7 OCT 1950
+<-- 2|DATE|Y|7 OCT 1950 
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y 
+--> 2 DATE DEC 2015
+<-- 2|DATE|Y|DEC 2015 
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@ 
+--> 0 @I15@ INDI
+<-- 0|@I15@|N|INDI 
+--> 1 NAME Katara /Shao/
+<-- 1|NAME|Y|Katara /Shao/ 
+--> 2 GIVN Katara
+<-- 2|GIVN|N|Katara 
+--> 2 SURN Shao
+<-- 2|SURN|N|Shao 
+--> 2 _MARNM Shao
+<-- 2|_MARNM|N|Shao 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 3 JUL 1950
+<-- 2|DATE|Y|3 JUL 1950 
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y 
+--> 2 DATE 10 DEC 2010
+<-- 2|DATE|Y|10 DEC 2010 
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@ 
+--> 0 @F1@ FAM
+<-- 0|@F1@|N|FAM 
+--> 1 HUSB @I10@
+<-- 1|HUSB|Y|@I10@ 
+--> 1 WIFE @I1@
+<-- 1|WIFE|Y|@I1@ 
+--> 1 CHIL @I12@
+<-- 1|CHIL|Y|@I12@ 
+--> 1 CHIL @I13@
+<-- 1|CHIL|Y|@I13@ 
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y 
+--> 0 @F2@ FAM
+<-- 0|@F2@|N|FAM 
+--> 1 HUSB @I9@
+<-- 1|HUSB|Y|@I9@ 
+--> 1 WIFE @I1@
+<-- 1|WIFE|Y|@I1@ 
+--> 1 CHIL @I11@
+<-- 1|CHIL|Y|@I11@ 
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N 
+--> 0 @F3@ FAM
+<-- 0|@F3@|N|FAM 
+--> 1 HUSB @I2@
+<-- 1|HUSB|Y|@I2@ 
+--> 1 WIFE @I3@
+<-- 1|WIFE|Y|@I3@ 
+--> 1 CHIL @I1@
+<-- 1|CHIL|Y|@I1@ 
+--> 1 CHIL @I4@
+<-- 1|CHIL|Y|@I4@ 
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y 
+--> 0 @F4@ FAM
+<-- 0|@F4@|N|FAM 
+--> 1 HUSB @I14@
+<-- 1|HUSB|Y|@I14@ 
+--> 1 WIFE @I15@
+<-- 1|WIFE|Y|@I15@ 
+--> 1 CHIL @I3@
+<-- 1|CHIL|Y|@I3@ 
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y 
+--> 0 @F5@ FAM
+<-- 0|@F5@|N|FAM 
+--> 1 HUSB @I4@
+<-- 1|HUSB|Y|@I4@ 
+--> 1 WIFE @I5@
+<-- 1|WIFE|Y|@I5@ 
+--> 1 CHIL @I7@
+<-- 1|CHIL|Y|@I7@ 
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y 
+--> 0 @F6@ FAM
+<-- 0|@F6@|N|FAM 
+--> 1 HUSB @I6@
+<-- 1|HUSB|Y|@I6@ 
+--> 1 WIFE @I5@
+<-- 1|WIFE|Y|@I5@ 
+--> 1 CHIL @I8@
+<-- 1|CHIL|Y|@I8@ 
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N 
+--> 0 TRLR
+<-- 0|TRLR|Y|
